@@ -1,0 +1,8 @@
+IDE:https://www.arduino.cc/en/software
+Arduino: R3
+library for reading OBD-II data from your car over CAN bus: https://www.arduinolibraries.info/libraries/obd2
+photoshield: SparkFun ProtoShield Kit
+obd2 cable desired: https://freematics.com/store/index.php?route=product/product&path=20&product_id=83
+obd2 cable used: https://www.amazon.com/iKKEGOL-Extension-Diagnostic-Extender-Adapter/dp/B00L4207IS/ref=sr_1_5?dchild=1&keywords=OBD+Cable&qid=1610033033&sr=8-5
+
+photoshield wireing schemeatic:  https://docs.google.com/document/d/1ZH8b7qeoPcfSvwwIXG_TzPAIt4pUgp8OqipwX7Ju1BM/edit?usp=sharing 
